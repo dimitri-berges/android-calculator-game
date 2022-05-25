@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M4101C 2021-2022</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="authentication_failed">Authentication failed.</string>
+    <string name="made_by_dimitri_b">made by Dimitri B.</string>
+    <string name="automatic_connection">Automatic connection</string>
+    <string name="signin">Sign-in</string>
+    <string name="stuck">Well, you\'re stuck</string>
+    <string name="pseudo_min_length">Pseudo must be at least 6 characters long</string>
+    <string name="pseudo_max_length">Pseudo must be least than 20 characters long</string>
+    <string name="pseudo_comma">Pseudo:</string>
+    <string name="connected_as">Connected_as</string>
+    <string name="pseudo_not_defined">Pseudo not defined!</string>
+    <string name="signout">Sign-out</string>
+    <string name="easy">Easy</string>
+    <string name="impossible">Impossible</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="chill_mode">Chill mode</string>
+    <string name="delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="error_selected_level">An error linked with level selection has occured</string>
+    <string name="score">Score:</string>
+    <string name="health">Life:</string>
+    <string name="best_scores">Best scores</string>
+    <string name="quit">Quit</string>
+    <string name="really_quit">Do you really want to quit the current game? No progression will be saved.</string>
+    <string name="cancel">Cancel</string>
+</resources>

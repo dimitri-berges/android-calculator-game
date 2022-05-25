@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/quit"
+        app:showAsAction="ifRoom"
+        android:id="@+id/menu_game_quit"
+        android:icon="@drawable/ic_outline_highlight_off_24"
+        />
+</menu>

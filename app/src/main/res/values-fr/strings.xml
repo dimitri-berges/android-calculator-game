@@ -1,15 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M4101C 2021-2022</string>
     <string name="register">S\'inscrire</string>
     <string name="login">Se connecter</string>
     <string name="pseudo">Pseudo</string>
     <string name="authentication_failed">Erreur d\'authentification</string>
-    <string name="mental_calcul" translatable="false">Calculator\nGame</string>
     <string name="made_by_dimitri_b">fait par Dimitri B.</string>
     <string name="automatic_connection">Connexion automatique</string>
-    <string name="stuck">Et bien, vous êtes coincés</string>
-    <string name="default_gplay_web_client_id" translatable="false">2293158961-t42o2ocr154oji01gdsbiqe2bnv9qgro.apps.googleusercontent.com</string>
     <string name="signin">Connexion</string>
+    <string name="stuck">Oups, vous êtes coincés</string>
     <string name="pseudo_min_length">Le pseudo doit faire au moins 6 caractères.</string>
     <string name="pseudo_max_length">Le pseudo ne peut pas faire plus de 20 caractères.</string>
     <string name="pseudo_comma">Pseudo :</string>
@@ -21,22 +20,12 @@
     <string name="hard">Difficle</string>
     <string name="impossible">Impossible</string>
     <string name="chill_mode">Mode Chill</string>
-    <string name="_1" translatable="false">1</string>
-    <string name="_2" translatable="false">2</string>
-    <string name="_3" translatable="false">3</string>
-    <string name="_4" translatable="false">4</string>
-    <string name="_5" translatable="false">5</string>
-    <string name="_6" translatable="false">6</string>
-    <string name="_7" translatable="false">7</string>
-    <string name="_8" translatable="false">8</string>
-    <string name="_9" translatable="false">9</string>
     <string name="delete">Supprimer</string>
-    <string name="_0" translatable="false">0</string>
     <string name="ok">OK</string>
     <string name="error_selected_level">Une erreur avec le niveau sélectionné est survenue</string>
     <string name="score">Score :</string>
     <string name="health">Vie :</string>
-    <string name="best_scores">Best scores</string>
+    <string name="best_scores">Meilleurs scores</string>
     <string name="quit">Quitter</string>
     <string name="really_quit">Voulez-vous vraiment quittez la partie en cours ? Aucune progression ne sera sauvegardée.</string>
     <string name="cancel">Annuler</string>
